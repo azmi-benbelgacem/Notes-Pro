@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notes Pro</string>
+    <string name="save_note_button"><![CDATA[<string name=\"save_note_button\">Save Note</string>\n]]></string>
+</resources>

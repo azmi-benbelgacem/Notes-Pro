@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568004550546",
+    "project_id": "note-app-5de3b",
+    "storage_bucket": "note-app-5de3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568004550546:android:00831be490d9d22edb6b4b",
+        "android_client_info": {
+          "package_name": "com.example.azmi_benbelgacem_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8hQ2xD04vxQe5mJ0F6C9QJ_aaIMl_mOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
