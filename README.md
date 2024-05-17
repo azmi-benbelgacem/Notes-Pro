@@ -1,5 +1,6 @@
 
 Libérez vos pensées et idées avec un havre numérique sécurisé : Découvrez Notes Pro!
+
 Notes Pro est votre application de prise de notes tout-en-un, conçue pour capturer vos pensées, idées et même secrets en toute confidentialité.  
 Écrivez tout ce qui vous passe par la tête, des listes de courses aux séances de brainstorming en passant par le prochain grand roman.  
 Notes Pro garantit que vos notes sont sûres et sécurisées grâce à un processus de connexion et de vérification par e-mail robuste.  
